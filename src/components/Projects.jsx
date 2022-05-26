@@ -43,7 +43,7 @@ const Project = ({ selectedTab }) => {
               <span className='projects__subtitle'>Vue</span>
               <h3 className='projects__title'>Muso Ninja</h3>
               <a
-                href='https://github.com/ShawonAkash/Muso-Ninjas'
+                href='https://music-mania-k23prmgnx-shawonakash.vercel.app/'
                 target='_blank'
                 className='projects__button button button__small'
               >
