@@ -41,7 +41,7 @@ const Project = ({ selectedTab }) => {
           <div className='projects__modal'>
             <div>
               <span className='projects__subtitle'>Vue</span>
-              <h3 className='projects__title'>Muso Ninja</h3>
+              <h3 className='projects__title'>Music Mania</h3>
               <a
                 href='https://music-mania-k23prmgnx-shawonakash.vercel.app/'
                 target='_blank'
