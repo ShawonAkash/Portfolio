@@ -4,6 +4,7 @@ import project2 from '../assets/img/project2.jpg'
 import project3 from '../assets/img/project3.jpg'
 import project4 from '../assets/img/project4.jpg'
 import project5 from '../assets/img/project5.jpg'
+import project6 from '../assets/img/project6.jpg'
 
 const Project = ({ selectedTab }) => {
   return (
@@ -98,6 +99,24 @@ const Project = ({ selectedTab }) => {
               <h3 className='projects__title'>Portfolio</h3>
               <a
                 href='https://react-portfolio-obbxmdrpj-shawonakash.vercel.app/'
+                target='_blank'
+                className='projects__button button button__small'
+              >
+                <i className='ri-link'></i>
+              </a>
+            </div>
+          </div>
+        </article>
+
+        <article className='projects__card'>
+          <img src={project6} alt='project6' className='projects__img' />
+
+          <div className='projects__modal'>
+            <div>
+              <span className='projects__subtitle'>Vue</span>
+              <h3 className='projects__title'>Admin LTE</h3>
+              <a
+                href='https://github.com/ShawonAkash/Bakery'
                 target='_blank'
                 className='projects__button button button__small'
               >

@@ -21,44 +21,6 @@ const Skills = ({ selectedTab }) => {
                 <i className='ri-checkbox-circle-line'></i>
 
                 <div>
-                  <h3 className='skills__name'>HTML</h3>
-                  <span className='skills__level'>Intermediate</span>
-                </div>
-              </div>
-
-              <div className='skills__data'>
-                <i className='ri-checkbox-circle-line'></i>
-
-                <div>
-                  <h3 className='skills__name'>CSS</h3>
-                  <span className='skills__level'>Intermediate</span>
-                </div>
-              </div>
-
-              <div className='skills__data'>
-                <i className='ri-checkbox-circle-line'></i>
-
-                <div>
-                  <h3 className='skills__name'>SaSS</h3>
-                  <span className='skills__level'>Intermediate</span>
-                </div>
-              </div>
-
-              <div className='skills__data'>
-                <i className='ri-checkbox-circle-line'></i>
-
-                <div>
-                  <h3 className='skills__name'>JavaScript</h3>
-                  <span className='skills__level'>Intermediate</span>
-                </div>
-              </div>
-            </div>
-
-            <div className='skills__group'>
-              <div className='skills__data'>
-                <i className='ri-checkbox-circle-line'></i>
-
-                <div>
                   <h3 className='skills__name'>React</h3>
                   <span className='skills__level'>Intermediate</span>
                 </div>
@@ -87,6 +49,43 @@ const Skills = ({ selectedTab }) => {
 
                 <div>
                   <h3 className='skills__name'>Git</h3>
+                  <span className='skills__level'>Intermediate</span>
+                </div>
+              </div>
+            </div>
+            <div className='skills__group'>
+              <div className='skills__data'>
+                <i className='ri-checkbox-circle-line'></i>
+
+                <div>
+                  <h3 className='skills__name'>HTML</h3>
+                  <span className='skills__level'>Intermediate</span>
+                </div>
+              </div>
+
+              <div className='skills__data'>
+                <i className='ri-checkbox-circle-line'></i>
+
+                <div>
+                  <h3 className='skills__name'>CSS</h3>
+                  <span className='skills__level'>Intermediate</span>
+                </div>
+              </div>
+
+              <div className='skills__data'>
+                <i className='ri-checkbox-circle-line'></i>
+
+                <div>
+                  <h3 className='skills__name'>SaSS</h3>
+                  <span className='skills__level'>Intermediate</span>
+                </div>
+              </div>
+
+              <div className='skills__data'>
+                <i className='ri-checkbox-circle-line'></i>
+
+                <div>
+                  <h3 className='skills__name'>JavaScript</h3>
                   <span className='skills__level'>Intermediate</span>
                 </div>
               </div>
