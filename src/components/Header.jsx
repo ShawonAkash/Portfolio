@@ -78,7 +78,8 @@ const Header = () => {
           <div className='profile__buttons'>
             <a
               download=''
-              href='assets/pdf/Akash Ahmed Resume.pdf'
+              href='https://drive.google.com/file/d/1ZJGjCEcL__T_Injf0mAOTHflQQWlT_d6/view?usp=share_link'
+              target='_blank'
               className='button'
             >
               Download CV <i className='ri-download-line'></i>
